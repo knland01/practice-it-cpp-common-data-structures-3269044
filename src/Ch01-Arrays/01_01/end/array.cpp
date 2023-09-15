@@ -20,7 +20,7 @@ int main()
 
     // Modifies the third element
     numbers[2] = 42;
-
+    
     // Iterates over the numbers array using a for loop
     for (int i = 0; i < 5; ++i)
     {
@@ -32,6 +32,6 @@ int main()
     {
         cout << "Element: " << number << endl;
     }
-
+// let's see if we can make a change that stays
     return 0;
 }
